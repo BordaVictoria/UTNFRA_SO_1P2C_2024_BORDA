@@ -1,0 +1,4 @@
+Mi IP publica es: 186.22.54.132
+Mi usuario es : vagrant
+El hash de mi usuario es : $y$j9T$f7V.J8o8/5JXqaI3xUKKQ0$oND2iaEkOI22AcHc9kfKwylXqBi.VixFO/cPGuxMD.. 
+La url de mi repo es : git@github.com:BordaVictoria/UTNFRA_SO_1P2C_2024_BORDA.git 
